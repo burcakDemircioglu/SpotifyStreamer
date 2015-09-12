@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">Spotify Streamer</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_songs">Top 10 Tracks</string>
+    <string name="loading">loading..</string>
+    <string name="not_found">is not found!\nPlease refine the search..</string>
+    <string name="tracks_not_found">Tracks are not found!</string>
+    <string name="give_input">Please give an artist or a group name to search..</string>
+    <string name="not_found_background">Search is not found! \n Please refine the search..</string>
+    <string name="title_activity_player">Spotify Streamer</string>
+    <string name="hello_world">Hello world!</string>
+</resources>
